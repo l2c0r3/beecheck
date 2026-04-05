@@ -1,4 +1,4 @@
-package ch.c0r3;
+package ch.c0r3.beecheck;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

@@ -1,4 +1,4 @@
-package ch.c0r3;
+package ch.c0r3.beecheck;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
