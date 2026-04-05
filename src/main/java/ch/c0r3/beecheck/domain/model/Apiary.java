@@ -1,4 +1,4 @@
 package ch.c0r3.beecheck.domain.model;
 
-public record Apiary(String id, Address address, int amountOfBeeColonies, int xCoordinate, int yCoordinate, String note) {
+public record Apiary(Long communeId, Long hiveId, Address address, Long xCoordinate, Long yCoordinate, Long zCoordinate) {
 }

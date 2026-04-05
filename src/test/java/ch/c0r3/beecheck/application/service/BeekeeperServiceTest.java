@@ -14,12 +14,12 @@ import static org.junit.jupiter.api.Assertions.*;
 class BeekeeperServiceTest {
 
     private static final Beekeeper MICHAEL = new Beekeeper(
-            "Michael", "Reeve", null,
+            null, "Michael", "Reeve", null,
             null, null, null,
             null
     );
     private static final Beekeeper MICHEL = new Beekeeper(
-            "Michel", "Müller", null,
+            null, "Michel", "Müller", null,
             null, null, null,
             null
     );
